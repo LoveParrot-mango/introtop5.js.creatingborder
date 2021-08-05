@@ -1,0 +1,24 @@
+body {
+    background-image: url("back.jpg");
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 65px;;
+}
+
+.sub {
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkmagenta;
+}
+
+.instruc {
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: wheat;
+}
+
+.snapbutton {
+    margin-bottom: 20px;
+}
